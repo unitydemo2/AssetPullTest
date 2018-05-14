@@ -1,7 +1,6 @@
 Unity Manual TOC
 ================
 
- - [Orphan1](Orphan1.md)
  - [UnityManual](UnityManual.md)
 	 - [UnityManual](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
@@ -11,4 +10,5 @@ Unity Manual TOC
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
+	 - [Orphan1](Orphan1.md)
 
