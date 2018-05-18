@@ -4,6 +4,7 @@ Unity Manual TOC
  - [Orphan1](Orphan1.md)
  - [UnityManual](UnityManual.md)
 	 - [UnityManual](UnityManual_1.md)
+		 - [Orphan2](Orphan2.md)
 		 - [ManualVersions](ManualVersions.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 		 - [OfflineDocumentation](OfflineDocumentation.md)
