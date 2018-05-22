@@ -4,8 +4,8 @@ The Unity Manual and Scripting API hold documentation for several versions of Un
 
 It is not currently possible to look at an individual Unity documentation page and switch between its versions. Switching versions always takes you back to the home page. 
 
-![abc](DevImages/unitysamplepic.jpg)
-![abc](DevImages/TestImage1.jpg)
+![abc](Images/DW5b03c3277a99050cec46d11c.jpg)
+![abc](Images/DW5b03c3277a99050cec46d11d.jpg)
 
 
 **Last updated:** May 22nd, 2018
