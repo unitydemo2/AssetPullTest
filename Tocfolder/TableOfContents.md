@@ -5,7 +5,7 @@ Unity Manual TOC
 	 - [UnityManual](UnityManual_1)
 		 - [ManualVersions](ManualVersions)
 		 - [Switching between Unity versionstest](SwitchingDocumentationVersions)
-		 - [OfflineDocumentation](OfflineDocumentation)
+		 - [OfflineDocumentation](OfflineDocumentation12)
 		 - [WhatsNew56](WhatsNew56)
 		 - [Leave Feedback](LeaveFeedback)
 	 - [InstallingUnity](InstallingUnity)
