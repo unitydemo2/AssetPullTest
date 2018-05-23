@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<doc version="3">
+    <member name="AnimationUtility.CurveModifiedType" type="Enum" namespace="UnityEditor">
+        <section>
+            <summary>Describes the type of modification that caused OnCurveWasModified to fire cmsqatest summary.</summary>
+        </section>
+		 
+        <member name="AnimationUtility.CurveModifiedType.CurveDeleted" type="EnumValue" />
+        <member name="AnimationUtility.CurveModifiedType.CurveModified" type="EnumValue" />
+    </member>
+</doc>
