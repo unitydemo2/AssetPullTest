@@ -7,3 +7,7 @@ Manual Versions
 ![abc](DevImages/images (1).jpg)
 
 Last updated on 22nd May 2018
+
+![abc](DevImages/Cherry-PNG-Clipart.PNG)
+
+Last updated on 24th May 2018
