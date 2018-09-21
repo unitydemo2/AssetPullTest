@@ -1,6 +1,6 @@
 #Switching between Unity versions in the documentation
 
-![abc](DevImages/test21.jpg)
+![abc](Examples/test21_5ba4a0ddee4d6b20c491d070.jpg)
 
 The Unity Manual and Scripting API hold documentation for several versions of Unity. You can switch between the two latest versions by clicking on the link at the top-left of this page, above the table of contents.
 
