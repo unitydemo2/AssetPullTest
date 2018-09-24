@@ -5,8 +5,8 @@ This file is edited for testing assets.
 
 ![abc](DevImages/Fish_5bc48e44ee4d6b20c491d029.jpg)
 
-![abc](DevImages/Bird-5ba0d373ee4d6b20c491bc23.jpg)
+![abc](Examples/Bird-5ba0d373ee4d6b20c491bc23_5ba8c49c015cc616d89dce2d.jpg)
 
-![abc](DevImages/Bird-5ba0d373ee4d6b20c491bc24.jpg)
+![abc](Examples/Bird-5ba0d373ee4d6b20c491bc24_5ba8c49c015cc616d89dce2e.jpg)
 
 Last Updated on 24th Sep 2018 one more time.
