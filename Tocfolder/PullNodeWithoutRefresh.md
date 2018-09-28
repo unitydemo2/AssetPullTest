@@ -1,1 +1,0 @@
-This file is created for testing added node from version controller are reflected in Docworks application without refreshing the page  or not, and also to verify for these kind of files do we have new tag as newnode or not.
