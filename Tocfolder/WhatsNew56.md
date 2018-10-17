@@ -1,6 +1,13 @@
  
 # New in Unity 5.6 
- To find out about the new features modified data changes1 and improvements in this version, please see the [5.6 Release Notes](https://unity3d.com/unity/whats-new/unity-5.6.0). 
+ 
+ 
+ ![](Images/imagesgithub4_5bc743351bbab51bc02556c9.jpg) 
+ 
+ [5bc743921bbab51bc02556d1](Examples/github4codeblock_5bc743921bbab51bc02556d1.cs) 
+ 
+ 
+ To find out about the new features modified data changes1 and er improvements in this version, please see the [5.6 Release Notes](https://unity3d.com/unity/whats-new/unity-5.6.0). 
  
  ![](Images/images16_5bc72ac51bbab51bc025525c.jpg) 
  
