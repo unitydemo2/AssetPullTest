@@ -1,0 +1,13 @@
+# Humanoid Avatars
+
+Unity's Animation System has special features for working with humanoid characters. Because humanoid characters are so common in games, Unity provides a specialized workflow, and an extended tool set for humanoid animations.
+
+[The Avatar system](ConfiguringtheAvatar) is how Unity identifies that a particular animated model is humanoid in layout, and which parts of the model correspond to the legs, arms, head and body.
+
+Because of the similarity in bone structure between different humanoid characters, it is possible to map animations from one humanoid character to another, allowing __retargeting__ and __inverse kinematics (IK)__. 
+
+![Unity's Avatar structure](../uploads/Main/AvatarIntro.jpg)
+
+---
+
+* <span class="page-edit"> 2018-04-25  <!-- include IncludeTextAmendPageSomeEdit --></span>
