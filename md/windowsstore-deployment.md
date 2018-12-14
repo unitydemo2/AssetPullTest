@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Deployment
+Universal Windows Platform: Deployment
 =========================
 
 
