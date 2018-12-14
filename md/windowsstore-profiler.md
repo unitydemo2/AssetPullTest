@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Profiler
+Universal Windows Platform: Profiler
 =======================
 
 
