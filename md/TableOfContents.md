@@ -1386,7 +1386,6 @@ Unity Manual ToC
         * [Facebook](Facebook)
             * [Getting started with Facebook](Facebook-GettingStarted)
             * [Facebook Player Settings](class-PlayerSettingsFacebook)
-
         * [xboxone](xboxone)
             * [xboxone-gettingstarted](xboxone-gettingstarted)
                 * [xboxone-setup](xboxone-setup)
@@ -1408,12 +1407,8 @@ Unity Manual ToC
                     * [xboxone-xboxoneinput](xboxone-xboxoneinput)
                     * [xboxone-xboxoneplm](xboxone-xboxoneplm)
                 * [xboxone-knownissues](xboxone-knownissues)
-
-
         * [n3ds](n3ds)
             * [n3ds-gettingstarted](n3ds-gettingstarted)
-
-
         * [ps4](PS4)
             * [PS4 License Keys](PS4LicenseKeys)
             * [PS4 Getting Started](PS4GettingStarted)
@@ -1441,7 +1436,6 @@ Unity Manual ToC
                     * [UsingVRTrace](UsingVRTrace)
             * [PS4 Troubleshooting](PS4Troubleshooting)
             * [PS4 Creating Submittable Packages](PS4CreatingSubmittablePackages)
-
         * [Windows](Windows)
             * [General](WindowsGeneral)
                 * [WindowsStandalonePlayerBuildBinaries](WindowsStandaloneBinaries)
@@ -1450,7 +1444,6 @@ Unity Manual ToC
                 * [Windows Player: IL2CPP Scripting Backend](WindowsPlayerIL2CPPScriptingBackend)
                     * [Windows Player: IL2CPP Build Files](WindowsPlayerIL2CPPBuildProducedFiles)
                     * [Windows Player: C++ Source Code Plugins for IL2CPP](WindowsPlayerCPlusPlusSourceCodePluginsForIL2CPP)
-
             * [Universal windows platform](WindowsStore)
                 * [Getting started](windowsstore-gettingstarted)
                 * [Deployment](windowsstore-deployment)
@@ -1474,11 +1467,7 @@ Unity Manual ToC
                 * [Examples](windowsstore-examples)
                 * [Code Snippets](windowsstore-code-snippets)
                 * [windowsstore-knownissues](windowsstore-knownissues)
-
-
         * [Web Player](Web)
-
-
         * [MobileDeveloperChecklist](MobileDeveloperChecklist)
             * [MobileCrashes](MobileCrashes)
             * [MobileProfiling](MobileProfiling)
@@ -1488,7 +1477,6 @@ Unity Manual ToC
                 * [MobileOptimizationScriptingMethods](MobileOptimizationScriptingMethods)
                 * [MobileOptimizationPracticalRenderingOptimizations](MobileOptimizationPracticalRenderingOptimizations)
                 * [MobileOptimizationPracticalScriptingOptimizations](MobileOptimizationPracticalScriptingOptimizations)
-
     * [Experimental](Experimental)
         * [UIElements Developer Guide](UIElements)
             * [The Visual Tree](UIE-VisualTree)
