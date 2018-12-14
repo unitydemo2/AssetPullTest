@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Association launching
+Universal Windows Platform: Association launching
 ========================
 
 The API allows you to launch the user's default app for a file type or protocol. See [UnityEngine.WSA.Launcher](ScriptRef:WSA.Launcher.html) for more information.
