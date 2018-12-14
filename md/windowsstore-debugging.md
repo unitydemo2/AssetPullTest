@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Debugging on .NET Scripting Backend
+Universal Windows Platform: Debugging on .NET Scripting Backend
 =============================
 
 When you have a crash, or a weird behavior, always check the player log which is located here - **&lt;user&gt;\AppData\Local\Packages\<productname&gt;\TempState\UnityPlayer.log**. When submitting a bug, please include the player log as well, it can give invaluable information.
