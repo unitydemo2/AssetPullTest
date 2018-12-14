@@ -1,3 +1,4 @@
+#
 <!-- notrans -->
 <div class="search-results">
 ##Searching User Manual, please wait.
