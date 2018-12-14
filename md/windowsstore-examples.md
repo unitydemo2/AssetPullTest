@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Examples
+Universal Windows Platform: Examples
 ========================
 
 Example projects are stored on the Unity Technologies [Bitbucket](https://bitbucket.org/Unity-Technologies/windowsstoreappssamples).
