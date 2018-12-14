@@ -1,3 +1,4 @@
+#
 #2D and 3D mode settings
 
 When creating a new Project, you can specify whether to start the Unity Editor in 2D mode or 3D mode. However, you also have the option of switching the Editor between 2D mode and 3D mode at any time. You can read more about [the difference between 2D and 3D Projects here](2Dor3D). This page provides information about how to switch modes, and what exactly changes within the editor when you do.
