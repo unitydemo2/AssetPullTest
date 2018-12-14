@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Generated project with .NET scripting backend
+Universal Windows Platform: Generated project with .NET scripting backend
 =============================
 Unity generates an XAML C# Visual Studio solution. With XAML C# solution generated you are able to use managed assemblies, such as UnityEngine.dll, Assembly-CSharp.dll, etc. with XAML code on top.
 
