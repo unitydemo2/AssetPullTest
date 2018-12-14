@@ -1,4 +1,4 @@
-﻿Universal Windows Platform: Code snippets
+Universal Windows Platform: Code snippets
 ========================
 
 
