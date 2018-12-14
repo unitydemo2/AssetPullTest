@@ -1,4 +1,4 @@
-﻿Windows Debugging
+Windows Debugging
 =================
 
 Unity provides some facilities to ease the debugging on Windows for forensic or live debugging of game or editor processes.
