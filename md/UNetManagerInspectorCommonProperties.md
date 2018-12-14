@@ -1,3 +1,4 @@
+#
 |**Network Info**|You can expand this section of the inspector to access network-related settings, listed below|
 |**Use Web Sockets**|When running as a host, enable this setting to make the host listen for WebSocket connections instead of normal transport layer connections, so that WebGL clients can connect to it (if you build your game for the WebGL platform). These WebGL instances of your game cannot act as a host (in either peer-hosted or server-only mode). Therefore, for WebGL instances of your multiplayer game to be able to find each other and play together, you must host a server-only instance of your game running in LAN mode, with a publicly reachable IP address, and it must have this option enabled. This checkbox is unticked by default.|
 |**Network Address**|The network address currently in use. For clients, this is the address of the server that is connected to. For servers, this is the local address. This is set to ‘localhost’ by default.|
