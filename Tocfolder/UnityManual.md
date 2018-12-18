@@ -1,5 +1,9 @@
 #Unity User Manual (5.6)
 
+SIRSENDU 181220181533
+![UNITY LOGO](DevImages/unity.png)
+18th December 2018
+
 Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
 
 The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference.
