@@ -1,6 +1,5 @@
  - [UnityManual]()
 	 - [ManualVersions](ManualVersions.md)
-	 - [Deploying Unity Offline](DeployingUnityOffline.md)
 	 - [19motodraft](19motodraft.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
@@ -11,3 +10,4 @@
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
+		 - [Deploying Unity Offline](DeployingUnityOffline.md)
