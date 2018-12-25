@@ -1,38 +1,18 @@
  
 # Unity User Manual (5.6) 
- These is to test the comaprsion tool 
- Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
- The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference. 
- 
+ These is to test the comaprsion tool Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference. 
  __New__ 
 
 *  Features introduced in 5.6: [What's New in 5.6](http://docs.google.com/WhatsNew56) 
 
 *  Upgrading Unity projects from older versions of Unity: [Upgrade Guide](http://docs.google.com/UpgradeGuides) 
- 
  __Best practice and expert guides__ 
 
 *  Best practices from Unity Support engineers: [Best Practice Guides](http://docs.google.com/BestPracticeGuides) 
 
 *  Expert guides from Unity developers, in their own words: [Expert Guides](http://docs.google.com/ExpertGuides) 
 ### Unity User Manual sections 
- [![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview) ###[Working in Unity](UnityOverview)### A complete introduction to the Unity Editor. 
- [![Main.Unity2D](../uploads/Main/struct2d.jpg)](Unity2D) ###[Unity 2D](Unity2D)### All of the Unity Editor's 2D-specific features including gameplay, sprites and physics. 
- [![Main.Graphics](../uploads/Main/StructGraphics.jpg)](Graphics) ###[Graphics](Graphics)### The visual aspects of the Unity Editor including cameras and lighting. 
- [![Main.PhysicsSection](../uploads/Main/StructPhysics.jpg)](PhysicsSection) ###[Physics](PhysicsSection)### Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space. 
- [![Main.UNet](../uploads/Main/StructUNet.png)](UNet) ###[Networking](UNet)### How to implement Multiplayer and networking. 
- [![Main.ScriptingSection](../uploads/Main/StructScripting.jpg)](ScriptingSection) ###[Scripting](ScriptingSection)### Programming your games by using scripting in the Unity Editor. 
- [![Main.Audio](../uploads/Main/StructAudio.jpg)](Audio) ###[Audio](Audio)### Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings. 
- [![Main.AnimationSection](../uploads/Main/StructAnimation.jpg)](AnimationSection) ###[Animation](AnimationSection)### Animation in the Unity Editor. 
- [![Main.UISystem](../uploads/Main/StructUI.jpg)](UISystem) ###[UI](UISystem)### The Unity Editor's UI system. 
- [![Main.Navigation](../uploads/Main/StructNavigation.jpg)](Navigation) ###[Navigation](Navigation)### Navigation in the Unity Editor, including AI and pathfinding. 
- [![Main.Services](../uploads/Main/ServicesSection.png)](UnityServices) ###[Unity services](UnityServices)### 
- [![Main.VROverview](../uploads/Main/StructVR.jpg)](VROverview) ###[Virtual reality](VROverview)### 
- [![Main.ContributingToUnity](../uploads/Main/StructContributingToUnity.jpg)](ContributingToUnity) ###[Contributing to Unity](ContributingToUnity)### Suggest modifications to some of the Unity Editor's source code. 
- [![Main.PlatformSpecific](../uploads/Main/StructPlatformSpecific.jpg)](PlatformSpecific) ###[Platform specific](PlatformSpecific)### Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor. 
- [![Main.LegacyTopics](../uploads/Main/StructLegacyTopics.jpg)](LegacyTopics) ###[Legacy topics](LegacyTopics)### Useful if you are maintaining legacy projects. 
- 
- 
+   ###[Working in Unity](http://docs.google.com/UnityOverview)### A complete introduction to the Unity Editor.    ###[Unity 2D](http://docs.google.com/Unity2D)### All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.    ###[Graphics](http://docs.google.com/Graphics)### The visual aspects of the Unity Editor including cameras and lighting.    ###[Physics](http://docs.google.com/PhysicsSection)### Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.    ###[Networking](http://docs.google.com/UNet)### How to implement Multiplayer and networking.    ###[Scripting](http://docs.google.com/ScriptingSection)### Programming your games by using scripting in the Unity Editor.    ###[Audio](http://docs.google.com/Audio)### Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.    ###[Animation](http://docs.google.com/AnimationSection)### Animation in the Unity Editor.    ###[UI](http://docs.google.com/UISystem)### The Unity Editor's UI system.    ###[Navigation](http://docs.google.com/Navigation)### Navigation in the Unity Editor, including AI and pathfinding.    ###[Unity services](http://docs.google.com/UnityServices)###    ###[Virtual reality](http://docs.google.com/VROverview)###    ###[Contributing to Unity](http://docs.google.com/ContributingToUnity)### Suggest modifications to some of the Unity Editor's source code.    ###[Platform specific](http://docs.google.com/PlatformSpecific)### Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.    ###[Legacy topics](http://docs.google.com/LegacyTopics)### Useful if you are maintaining legacy projects. 
 ### Further sources of information 
 
 *  [Unity Answers](http://answers.unity3d.com/) or [Unity Forums](http://forum.unity3d.com/) - here you can ask questions and search answers. 
