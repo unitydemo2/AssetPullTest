@@ -1,7 +1,7 @@
  - [UnityManual]()
 	 - [UnityManual]()
-		 - [ManualVersions](ManualVersions.md)
 		 - [UnityManual Overview](UnityManual.md)
+		 - [ManualVersions](ManualVersions.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [NodeST](NodeST.md)
