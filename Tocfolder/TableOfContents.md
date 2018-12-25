@@ -1,4 +1,5 @@
  - [UnityManual]()
+	 - [Deploying Unity Offline](DeployingUnityOffline.md)
 	 - [19motodraft](19motodraft.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
@@ -9,5 +10,4 @@
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
-		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
