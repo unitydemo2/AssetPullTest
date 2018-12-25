@@ -1,11 +1,8 @@
-Unity Manual TOC
-================
-
  - [UnityManual]()
-	 - [impdraft](impdraft.md)
+	 - [nodraft](impdraft.md)
+	 - [UnityManual Overview](UnityManual_1.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
-		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 		 - [OfflineDocumentation](OfflineDocumentation.md)
@@ -14,4 +11,3 @@ Unity Manual TOC
 	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
-
