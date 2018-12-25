@@ -2,7 +2,6 @@
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
 		 - [ManualVersions](ManualVersions.md)
-		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [NodeST](NodeST.md)
 		 - [OfflineDocumentation](OfflineDocumentation.md)
@@ -11,3 +10,4 @@
 		 - [InstallingUnity Overview](InstallingUnity.md)
 	 - [InstallingUnity]()
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
+		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
