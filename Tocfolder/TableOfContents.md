@@ -8,6 +8,6 @@
 		 - [NodeST](NodeST.md)
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
-	 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 	 - [InstallingUnity]()
+		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 	 - [Leave Feedback](LeaveFeedback.md)
