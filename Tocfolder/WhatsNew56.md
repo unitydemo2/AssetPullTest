@@ -1,5 +1,13 @@
 #New in Unity 5.6
 
+![abc](DevImages/Fish_5ba48e44ee4d6b20c491d028.jpg)
+
+![abc](Examples/Bird-5ba0d373ee4d6b20c491bc23_5ba8c49c015cc616d89dce2d.jpg)
+
+![abc](Examples/Bird-5ba0d373ee4d6b20c491bc24_5ba8c49c015cc616d89dce2e.jpg)
+
+# Last Updated on 26th December 2018.
+
 To find out about the new features, changes and improvements in this version, please see the [5.6 Release Notes](https://unity3d.com/unity/whats-new/unity-5.6.0).
 
 You can also look at [beta release notes](https://unity3d.com/unity/beta#notes) and the [archive](https://unity3d.com/unity/beta/archive) of beta release notes. 
