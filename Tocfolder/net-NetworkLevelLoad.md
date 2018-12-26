@@ -1,6 +1,14 @@
 Network Level Loading (Legacy)
 ============================
 
+![abc](DevImages/Fish_5ba48e44ee4d6b20c491d028.jpg)
+
+![abc](Examples/Bird-5ba0d373ee4d6b20c491bc23_5ba8c49c015cc616d89dce2d.jpg)
+
+![abc](Examples/Bird-5ba0d373ee4d6b20c491bc24_5ba8c49c015cc616d89dce2e.jpg)
+
+# Last Updated on 27th December 2018.
+
 *(For new projects, you should use the [new networking system introduced in 5.1](UNet.html). This information is for legacy projects using the old networking system.)*
 
 Below is a simple example of a way to load a level in a multiplayer game. It makes sure no network messages are being processed while the level is being loaded. It also makes sure no messages are sent, until everything is ready. Lastly, when the level is loaded it sends a message to all scripts so that they know the level is loaded and can react to that. The __SetLevelPrefix__ function helps with keeping unwanted networks updates out of a new loaded level. Unwanted updates might be updates from the previous level for example. The example also uses groups to separate game data and level load communication into groups. Group 0 is used for game data traffic and group 1 for level loading. Group 0 is blocked while the level is being loaded but group 1 kept open, it could also ferry chat communication so that can stay open during level loading.
