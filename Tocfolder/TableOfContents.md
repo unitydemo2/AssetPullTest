@@ -4,6 +4,7 @@ Unity Manual TOC
  - [UnityManual]()
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
+		 - [TestNode3](TestNode3.md)
 		 - [TestNode2](TestNode2.md)
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
