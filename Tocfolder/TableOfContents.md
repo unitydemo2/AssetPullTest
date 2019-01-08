@@ -2,6 +2,7 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
+	 - [NodeNewSTRenamed](NodeNewSTRenamed.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
