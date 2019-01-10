@@ -9,7 +9,7 @@ Unity Manual ToC
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 	 - [InstallingUnity]()
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
+		 - [ManualVersions](ManualVersions.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
-		 - [ManualVersions](ManualVersions.md)
 
