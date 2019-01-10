@@ -1,6 +1,5 @@
 Unity Manual ToC
 ================
- - [Deploying Unity Offline](DeployingUnityOffline.md)
  - [UnityManual]()
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
@@ -10,6 +9,7 @@ Unity Manual ToC
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
+		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 		 - [ManualVersions](ManualVersions.md)
 
