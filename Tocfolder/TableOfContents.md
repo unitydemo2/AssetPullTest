@@ -2,8 +2,8 @@ Unity Manual ToC
 ================
  - [WhatsNew56](WhatsNew56.md)
  - [UnityManual Overview](UnityManual.md)
- - [Leave Feedback](LeaveFeedback.md)
  - [UnityManual]()
+	 - [Leave Feedback](LeaveFeedback.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
