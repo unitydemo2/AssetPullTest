@@ -1,8 +1,7 @@
-Unity Manual TOC
+Unity Manual ToC
 ================
-
+ - [NewNodePAdminST](NewNodePAdminST.md)
  - [UnityManual]()
-	 - [NewNodePAdminST](NewNodePAdminST.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [WhatsNew56](WhatsNew56.md)
 	 - [Leave Feedback](LeaveFeedback.md)
