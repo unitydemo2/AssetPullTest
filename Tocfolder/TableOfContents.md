@@ -1,7 +1,7 @@
 Unity Manual ToC
 ================
- - [WhatsNew56](WhatsNew56.md)
  - [UnityManual]()
+	 - [WhatsNew56](WhatsNew56.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [Leave Feedback](LeaveFeedback.md)
 	 - [UnityManual]()
