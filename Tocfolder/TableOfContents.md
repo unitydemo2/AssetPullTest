@@ -1,9 +1,9 @@
 Unity Manual ToC
 ================
+ - [UnityManual Overview](UnityManual.md)
  - [WhatsNew56](WhatsNew56.md)
  - [NewNodePAdminST](NewNodePAdminST.md)
  - [UnityManual]()
-	 - [UnityManual Overview](UnityManual.md)
 	 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
 		 - [OfflineDocumentation](OfflineDocumentation.md)
