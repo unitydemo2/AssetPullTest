@@ -8,10 +8,10 @@ Unity Manual ToC
 	 - [UnityManual]()
 		 - [ManualVersions](ManualVersions.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
+		 - [UnityManual Overview](UnityManual.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
  - [WhatsNew56](WhatsNew56.md)
  - [FolderOne]()
 	 - [NewNodePAdminST](NewNodePAdminST.md)
- - [UnityManual Overview](UnityManual.md)
  - [Leave Feedback](LeaveFeedback.md)
 
