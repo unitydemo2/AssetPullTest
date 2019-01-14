@@ -1,9 +1,5 @@
 Unity Manual ToC
 ================
- - [WhatsNew56](WhatsNew56.md)
- - [Leave Feedback](LeaveFeedback.md)
- - [FolderOne]()
-	 - [NewNodePAdminST](NewNodePAdminST.md)
  - [UnityManual]()
 	 - [InstallingUnity]()
 		 - [OfflineDocumentation](OfflineDocumentation.md)
@@ -13,5 +9,9 @@ Unity Manual ToC
 		 - [ManualVersions](ManualVersions.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
+ - [WhatsNew56](WhatsNew56.md)
+ - [FolderOne]()
+	 - [NewNodePAdminST](NewNodePAdminST.md)
  - [UnityManual Overview](UnityManual.md)
+ - [Leave Feedback](LeaveFeedback.md)
 
