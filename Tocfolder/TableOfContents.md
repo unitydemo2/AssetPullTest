@@ -5,7 +5,6 @@ Unity Manual ToC
  - [FolderOne]()
 	 - [NewNodePAdminST](NewNodePAdminST.md)
  - [UnityManual]()
-	 - [UnityManual Overview](UnityManual.md)
 	 - [InstallingUnity]()
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 		 - [UnityManual Overview](UnityManual_1.md)
@@ -14,4 +13,5 @@ Unity Manual ToC
 		 - [ManualVersions](ManualVersions.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
+ - [UnityManual Overview](UnityManual.md)
 
