@@ -7,6 +7,9 @@ You can download the Unity Documentation as a zip file for offline use. To downl
 
 The zip file contains the most up-to-date version of the __Unity Manual__ and __Unity Scripting API__.
 
+__bold__
+
+___BnI___
 
 ![Unity Manual](../uploads/Main/OfflineDocumentationUserManual.png)
 
