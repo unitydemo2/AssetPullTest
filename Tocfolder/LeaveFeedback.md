@@ -3,8 +3,7 @@
 <div id="feedback-container"></div>
 
 
-fsfd
-dfsdfg
+![SmallKitty](DevImages/SmallKitty.jpg)
 
 
 
