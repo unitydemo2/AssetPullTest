@@ -8,5 +8,6 @@
 
 ![Cat](DevImages/dog.png)
 
-
 ![Dog](DevImages/dog1.png)
+
+![Parrot](DevImages/Parrot.jpg)
