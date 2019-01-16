@@ -14,7 +14,7 @@ The Unity Download Assistant supports offline deployment. This allows you to dow
 ## Preparation
 
 Run the Download Assistant, and install Unity as normal on one computer. This computer must have enough free disk space to download all the files.
-Click the dropdown and select __Custom__, then choose the location you wish to download the files to.
+Click the dropdown and select **Custom**, then choose the location you wish to download the files to.
 
 
 ![](../uploads/Main/DeployingUnityOffline-DownloadAssistant.png)
@@ -31,7 +31,7 @@ Open your PC's file manager, navigate to the custom location folder you specifie
 ### Windows
 
 1. Copy the entire folder to the target Windows PC, and run the supplied `.bat` file.
-1. To avoid the Windows UAC prompt, run `install.bat` from the Administrator shell. In the __Start__ menu, search for `cmd.exe`, right-click, and select __Run as administrator__.
+1. To avoid the Windows UAC prompt, run `install.bat` from the Administrator shell. In the **Start** menu, search for `cmd.exe`, right-click, and select **Run as administrator**.
 1. Navigate to the folder with the scripts. This will usually be in your Downloads folder (`cd C:\Users\[YourName]\Download\UnityPackages`).
 
 ###Mac
