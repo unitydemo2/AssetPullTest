@@ -13,3 +13,7 @@
 ![Parrot](DevImages/Parrot.jpg)
 
 ![Place](DevImages/place.jpg)
+
+![Krishna](DevImages/Krishna.jpg)
+
+![Leaf](DevImages/leaf.jpg)
