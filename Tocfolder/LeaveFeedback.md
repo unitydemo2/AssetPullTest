@@ -1,21 +1,10 @@
-#Leave Feedback
-
-<div id="feedback-container"></div>
-
-
-fsfd
-dfsdfg
-
-
-
-![abc](Images/DW5adad473b3fa4c386034e042.png)
-
-![abc](Images/DW5a963922d2f2b83b4ce3e9c6.png)
-
-
-[5a96364cb125ec3c70150c47](Examples/DW5a96364cb125ec3c70150c47.cs)
-
-![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg)
-
-
-![abc](Images/DW5adad7cad9daae2ac4d29fe3.png)
+ 
+# Leave Feedback 
+ fsfd dfsdfg 
+  
+ ![abc](Images/DW5a963922d2f2b83b4ce3e9c6_5c3839cef9ffb21fa4c00704.png) 
+ [5c3839cef9ffb21fa4c0070a](Examples/DW5a96364cb125ec3c70150c47_5c3839cef9ffb21fa4c0070a.cs) 
+ 
+ [5c3839cef9ffb21fa4c0070a](Examples/DW5a96364cb125ec3c70150c47_5c3839cef9ffb21fa4c0070a.cs) 
+ ![image alt text](image_0.jpg) 
+ ![abc](Images/DW5a963922d2f2b83b4ce3e9c6_5c3839cef9ffb21fa4c00701.png)
