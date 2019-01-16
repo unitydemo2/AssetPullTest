@@ -1,34 +1,34 @@
 #PS4 Trophies
 
-Unity supports __PS4 Trophies__ via the __NPToolkit2__ plug-in, which is in the [PS4 plug-ins ownCloud folder](https://oc.unity3d.com/index.php/s/6diVG9Aaf0c0m7j). Use __Trophies__ to reward your game's player for reaching certain milestones or completing challenges in your game. Refer to the [Trophy System Overview]([https://ps4.scedev.net/resources/documents/SDK/latest/Trophy_System-Overview/__document_toc.html) and [Trophy Pack Users' Guide](https://ps4.scedev.net/resources/documents/Misc/current/Trophy_Pack_File_Utility-Users_Guide/__document_toc.html) Sony Developer pages for more information.
+Unity supports **PS4 Trophies** via the **NPToolkit2** plug-in, which is in the [PS4 plug-ins ownCloud folder](https://oc.unity3d.com/index.php/s/6diVG9Aaf0c0m7j). Use **Trophies** to reward your game's player for reaching certain milestones or completing challenges in your game. Refer to the [Trophy System Overview]([https://ps4.scedev.net/resources/documents/SDK/latest/Trophy_System-Overview/**document_toc.html) and [Trophy Pack Users' Guide](https://ps4.scedev.net/resources/documents/Misc/current/Trophy_Pack_File_Utility-Users_Guide/**document_toc.html) Sony Developer pages for more information.
 
 # How to set up Trophies in Unity
 
-To set up __Trophies__ in Unity, follow the steps below:
+To set up **Trophies** in Unity, follow the steps below:
 
-* Import the following folders, along with all sub-folders and files from the __NPToolkit2__ plug-in into your project: 
+* Import the following folders, along with all sub-folders and files from the **NPToolkit2** plug-in into your project: 
     * Editor
     * Plug-ins
     * SonyAssemblies
 
 ![Importing PS4 Plug-ins via Unity Packages](../uploads/Main/ps4Trophies_image_1.png)
 
-* Open __PlayerSettings__ (menu: __Edit__ > __Project__ __Settings__ > __Player__) and go to __Publishing Settings__ > __PlayStation Network__. Set up the __Trophy Pack__ (*trophy.trp* file), __NP Title ID__ (*nptitle.dat* file) and the __NP Title Secret__ using the values and *trophy.trp* files for your project. You must obtain the NP title ID and NP secret values from Sony before adding them to your project. Refer to the [PSN Service Setup Guide]([https://ps4.scedev.net/resources/documents/SDK/latest/PSN_Service_Setup-Guide/0003.html](https://ps4.scedev.net/resources/documents/SDK/latest/PSN_Service_Setup-Guide/0003.html)) Sony Developer documentation for more information. You can also find a guide to setting up your own Trophy Pack files on the [Sony Developer Documentation website](https://ps4.scedev.net/resources/documents/Misc/current/Trophy_Pack_File_Utility-Users_Guide/0001.html#__document_toc_00000000).
-* If you are not using online features in your game (such as chat, leaderboards or online play), set the __NP Age Rating__ to 0. This stops the Playstation API from initializing unused features, but still allows trophy functionality.
+* Open **PlayerSettings** (menu: **Edit** > **Project** **Settings** > **Player**) and go to **Publishing Settings** > **PlayStation Network**. Set up the **Trophy Pack** (*trophy.trp* file), **NP Title ID** (*nptitle.dat* file) and the **NP Title Secret** using the values and *trophy.trp* files for your project. You must obtain the NP title ID and NP secret values from Sony before adding them to your project. Refer to the [PSN Service Setup Guide]([https://ps4.scedev.net/resources/documents/SDK/latest/PSN_Service_Setup-Guide/0003.html](https://ps4.scedev.net/resources/documents/SDK/latest/PSN_Service_Setup-Guide/0003.html)) Sony Developer documentation for more information. You can also find a guide to setting up your own Trophy Pack files on the [Sony Developer Documentation website](https://ps4.scedev.net/resources/documents/Misc/current/Trophy_Pack_File_Utility-Users_Guide/0001.html#**document_toc_00000000).
+* If you are not using online features in your game (such as chat, leaderboards or online play), set the **NP Age Rating** to 0. This stops the Playstation API from initializing unused features, but still allows trophy functionality.
 
 ![](../uploads/Main/ps4Trophies_image_2.png)
 
 The Playstation Network settings section of the PlayerSettings Inspector window.
 
-Refer to the [Sony Developer Trophy documentation](https://ps4.scedev.net/resources/documents/SDK/latest/Trophy_System-Overview/__document_toc.html) for more information on Trophies for PS4.
+Refer to the [Sony Developer Trophy documentation](https://ps4.scedev.net/resources/documents/SDK/latest/Trophy_System-Overview/**document_toc.html) for more information on Trophies for PS4.
 
 ### NPToolkit2 Example files
 
 The NPToolkit2 plug-in contains several example files to be used as a reference when setting up Trophies for your game in Unity.
 
-The NPToolkit2 plug-in includes example versions of the *nptitle.dat* and *trophy.trp* files (in the *Assets/Editor* folder). The __SetPlatformOptionsPS4.cs__ class contains example __NP Title Secret__ and __Content ID__ values.
+The NPToolkit2 plug-in includes example versions of the *nptitle.dat* and *trophy.trp* files (in the *Assets/Editor* folder). The **SetPlatformOptionsPS4.cs** class contains example **NP Title Secret** and **Content ID** values.
 
-__Note__: The example __Np Title Secret __and __Content ID __values are not suitable for publishing as part of a completed project. Replace the values and files with your own as soon as you can before publishing your project. 
+**Note**: The example **Np Title Secret **and **Content ID **values are not suitable for publishing as part of a completed project. Replace the values and files with your own as soon as you can before publishing your project. 
 
 ## Trophy support example script
 
@@ -249,7 +249,7 @@ public class TrophyManager : MonoBehaviour
 
 Use the original NPToolkit plug-in to add trophies to your game when using PS4 SDK 4.0 or older.
 
-__Note__: From the PS4 SDK 4.5 onwards, it is not possible to submit games using an older SDK.
+**Note**: From the PS4 SDK 4.5 onwards, it is not possible to submit games using an older SDK.
 
 The following is an example script that initializes the NPToolkit plug-in and adds trophy support to your game. This example assumes that you are not using any online functionality.
 
