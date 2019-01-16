@@ -1,7 +1,6 @@
 Unity Manual ToC
 ================
  - [UnityManual]()
-	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
@@ -10,6 +9,7 @@ Unity Manual ToC
 	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
  - [WhatsNew56](WhatsNew56.md)
+ - [UnityManual Overview](UnityManual.md)
  - [Deploying Unity Offline](DeployingUnityOffline.md)
  - [OfflineDocumentation](OfflineDocumentation.md)
 
