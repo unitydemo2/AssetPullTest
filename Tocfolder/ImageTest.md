@@ -11,3 +11,5 @@
 ![Dog](DevImages/dog1.png)
 
 ![Parrot](DevImages/Parrot.jpg)
+
+![Place](DevImages/place.jpg)
