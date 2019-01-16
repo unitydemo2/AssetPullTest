@@ -1,7 +1,7 @@
 Unity Manual ToC
 ================
- - [OfflineDocumentation](OfflineDocumentation.md)
  - [UnityManual]()
+	 - [OfflineDocumentation](OfflineDocumentation.md)
 	 - [UnityManual Overview](UnityManual_1.md)
 	 - [UnityManual]()
 		 - [ManualVersions](ManualVersions.md)
