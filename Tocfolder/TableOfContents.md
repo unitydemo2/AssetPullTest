@@ -11,5 +11,5 @@ Unity Manual ToC
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
-		 - [Deploying Unity Offline](DeployingUnityOffline.md)
+ - [Deploying Unity Offline](DeployingUnityOffline.md)
 
