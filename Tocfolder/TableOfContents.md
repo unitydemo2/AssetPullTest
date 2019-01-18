@@ -2,8 +2,8 @@ Unity Manual ToC
 ================
  - [UnityManual]()
 	 - [ManualVersions](ManualVersions.md)
+	 - [UnityManual Overview](UnityManual.md)
 	 - [InstallingUnity]()
-		 - [UnityManual Overview](UnityManual.md)
 	 - [Deploying Unity Offline](DeployingUnityOffline.md)
 	 - [UnityManual]()
 		 - [NewFolderST]()
