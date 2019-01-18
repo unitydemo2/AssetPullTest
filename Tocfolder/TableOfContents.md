@@ -1,8 +1,9 @@
 Unity Manual ToC
 ================
  - [UnityManual]()
+	 - [NewFolderST]()
+		 - [UnityManual Overview](UnityManual_1.md)
 	 - [ManualVersions](ManualVersions.md)
-	 - [UnityManual Overview](UnityManual_1.md)
 	 - [UnityManual]()
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 		 - [UnityManual Overview](UnityManual.md)
