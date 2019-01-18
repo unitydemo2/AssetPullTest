@@ -8,8 +8,8 @@ Unity Manual ToC
 		 - [ManualVersions](ManualVersions.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [WhatsNew56](WhatsNew56.md)
+		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
-		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
