@@ -8,9 +8,9 @@ Unity Manual ToC
 	 - [UnityManual]()
 		 - [NewFolderST]()
 			 - [UnityManual Overview](UnityManual_1.md)
+			 - [InstallingUnity Overview](InstallingUnity.md)
 			 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 			 - [OfflineDocumentation](OfflineDocumentation.md)
 			 - [Leave Feedback](LeaveFeedback.md)
-		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [WhatsNew56](WhatsNew56.md)
 
