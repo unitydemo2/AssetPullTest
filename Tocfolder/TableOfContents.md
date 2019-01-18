@@ -2,7 +2,6 @@ Unity Manual ToC
 ================
  - [UnityManual]()
 	 - [InstallingUnity]()
-		 - [ManualVersions](ManualVersions.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [UnityManual Overview](UnityManual_1.md)
 	 - [UnityManual]()
@@ -13,4 +12,5 @@ Unity Manual ToC
 			 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 			 - [OfflineDocumentation](OfflineDocumentation.md)
 			 - [Leave Feedback](LeaveFeedback.md)
+		 - [ManualVersions](ManualVersions.md)
 
