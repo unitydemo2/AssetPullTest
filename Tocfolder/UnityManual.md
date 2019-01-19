@@ -1,8 +1,4 @@
- 
-# Unity User Manual (5.6) 
- Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
- The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference. 
- **New** 
+#Unity User Manual team(5.6)
 
 *  Features introduced in 5.6: [What's New in 5.6](http://docs.google.com/WhatsNew56) 
 
