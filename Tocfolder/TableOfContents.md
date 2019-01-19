@@ -1,7 +1,7 @@
 Unity Manual TOC
 ================
 
- - [UnityManual](UnityManual)
+ - [UnityManual team](UnityManual)
 	 - [UnityManual](UnityManual_1)
 		 - [ManualVersions](ManualVersions)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions)
