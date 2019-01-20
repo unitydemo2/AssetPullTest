@@ -5,11 +5,11 @@ You can download the Unity Documentation as a zip file for offline use. To downl
 
 [Download: Offline Unity Documentation](../uploads/UnityDocumentation.zip) (Size: less than 300MB)
 
-The zip file contains the most up-to-date version of the __Unity Manual__ and __Unity Scripting API__.
+The zip file contains the most up-to-date version of the **Unity Manual** and **Unity Scripting API**.
 
-__bold__
+**bold**
 
-___BnI___
+***BnI***
 
 ![Unity Manual](../uploads/Main/OfflineDocumentationUserManual.png)
 
