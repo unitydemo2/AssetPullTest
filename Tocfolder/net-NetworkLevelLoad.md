@@ -1,4 +1,4 @@
-Network Level Loading (Legacy) SIRSENDU2712
+Network Level Loading (Legacy) SIRSENDU
 ============================
 Sample update file content. This should change the Title and ShotTitle of respective node.
 
