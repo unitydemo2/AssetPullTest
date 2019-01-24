@@ -1,21 +1,32 @@
 #Leave Feedback
 
 <div id="feedback-container"></div>
+this is testing for new line.
+new line again.
 
+```
+using UnityEngine.Purchasing;
+public class MyStore : IStoreListener
+{
+    public void InitializeStore()
+    {
+        var module = StandardPurchasingModule.Instance();
+        var builder = ConfigurationBuilder.Instance(module);
 
-fsfd
-dfsdfg
+        // Configure CloudMoolah
+        builder.Configure<IMoolahConfiguration>().appKey = "d93f4564c41d463ed3d3cd207594ee1b";
+        builder.Configure<IMoolahConfiguration>().hashKey = "cc";
+        // For server-to-server (also called "online" games) transaction
+        // logging, set IMoolahConfiguration.notificationURL.
+        builder.Configure<IMoolahConfiguration>().notificationURL = "https://gameserver.example.com/callback";
+        builder.Configure<IMoolahConfiguration>().SetMode(CloudMoolahMode.Production);
+        // Add purchasable products. The product must be defined in the store.
+        // Unity IAP provides the *ProductType* enumeration to specify the durability 
+        // of a purchasable product. CloudMoolah limits the product type to Consumable. 
+        builder.AddProduct("100.gold.coins", ProductType.Consumable);
 
-
-
-![abc](Images/DW5adad473b3fa4c386034e042.png)
-
-![abc](Images/DW5a963922d2f2b83b4ce3e9c6.png)
-
-
-[5a96364cb125ec3c70150c47](Examples/DW5a96364cb125ec3c70150c47.cs)
-
-![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg)
-
-
-![abc](Images/DW5adad7cad9daae2ac4d29fe3.png)
+        // Start asynchronous IAP initialization.
+        UnityPurchasing.Initialize(this, builder);
+    }
+}
+```
