@@ -1,7 +1,6 @@
 Unity Manual ToC
 ================
  - [UnityManual]()
-	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
 		 - [ManualVersions](ManualVersions.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
@@ -10,6 +9,7 @@ Unity Manual ToC
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnityRename]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
+		 - [UnityManual Overview](UnityManual.md)
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 
