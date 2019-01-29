@@ -1,6 +1,8 @@
 
 # Offline documentation
 
+Updated content in source controller to check whether it is reflecting in cms application as well it should create snapshot for it.
+
 You can download the Unity Documentation as a zip file for offline use. To download the current version of the Unity Documentation, click the link below.
 
 [Download: Offline Unity Documentation](../uploads/UnityDocumentation.zip) (Size: less than 300MB)
