@@ -5,7 +5,7 @@ Unity Manual ToC
 		 - [InstallingUnity]()
 		 - [Test1]()
 			 - [ManualVersions](ManualVersions.md)
-			 - [UnityManual Overview](UnityManual_1.md)
+		 - [UnityManual Overview](UnityManual_1.md)
 		 - [NewFolderST]()
 			 - [UnityManual Overview](UnityManual.md)
 			 - [Deploying Unity Offline](DeployingUnityOffline.md)
