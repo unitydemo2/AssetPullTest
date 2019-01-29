@@ -2,9 +2,9 @@ Unity Manual ToC
 ================
  - [UnityManual]()
 	 - [UnityManual]()
-		 - [UnityManual Overview](UnityManual_1.md)
 		 - [InstallingUnity]()
 		 - [Test1]()
+			 - [UnityManual Overview](UnityManual_1.md)
 			 - [ManualVersions](ManualVersions.md)
 		 - [NewFolderST]()
 			 - [UnityManual Overview](UnityManual.md)
