@@ -1,6 +1,5 @@
 Unity Manual ToC
 ================
- - [UnityManual Overview](UnityManual_1.md)
  - [UnityManual]()
 	 - [UnityManual]()
 		 - [folder2]()
@@ -15,4 +14,5 @@ Unity Manual ToC
 			 - [OfflineDocumentation](OfflineDocumentation.md)
 			 - [Leave Feedback](LeaveFeedback.md)
 		 - [WhatsNew56](WhatsNew56.md)
+ - [UnityManual Overview](UnityManual_1.md)
 
