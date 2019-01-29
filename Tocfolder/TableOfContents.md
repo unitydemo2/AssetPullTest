@@ -4,6 +4,7 @@ Unity Manual ToC
 	 - [UnityManual]()
 		 - [InstallingUnity]()
 		 - [Test1]()
+			 - [ManualVersions](ManualVersions.md)
 			 - [UnityManual Overview](UnityManual_1.md)
 		 - [NewFolderST]()
 			 - [UnityManual Overview](UnityManual.md)
@@ -13,5 +14,4 @@ Unity Manual ToC
 			 - [Leave Feedback](LeaveFeedback.md)
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
-		 - [ManualVersions](ManualVersions.md)
 
