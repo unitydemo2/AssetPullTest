@@ -1,8 +1,8 @@
 Unity Manual ToC
 ================
  - [InstallingUnity]()
+	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
-		 - [UnityManual Overview](UnityManual.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 		 - [UnityManual]()
