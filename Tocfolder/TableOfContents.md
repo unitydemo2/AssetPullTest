@@ -1,8 +1,8 @@
 Unity Manual ToC
 ================
- - [OfflineDocumentation](OfflineDocumentation.md)
  - [UnityManual Overview](UnityManual.md)
  - [UnityManual]()
+	 - [OfflineDocumentation](OfflineDocumentation.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
