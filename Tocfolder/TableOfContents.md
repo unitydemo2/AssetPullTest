@@ -10,6 +10,6 @@ Unity Manual ToC
 	 - [InstallingUnity]()
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
-		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [Leave Feedback](LeaveFeedback.md)
+		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
