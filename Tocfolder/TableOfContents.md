@@ -1,5 +1,6 @@
-Unity Manual ToC
+Unity Manual TOC
 ================
+
  - [InstallingUnity]()
 	 - [UnityManual]()
 		 - [OfflineDocumentation](OfflineDocumentation.md)
