@@ -1,5 +1,5 @@
  
-# Deploying Unity offline 
+# Deploying Unity offline. 
  The Unity Download Assistant supports offline deployment. This allows you to download all the necessary files for installing Unity, and to generate a script for repeating the same installation on other computers without internet access. 
 ## Preparation 
  Run the Download Assistant, and install Unity as normal on one computer. This computer must have enough free disk space to download all the files. Click the dropdown and select **Custom**, then choose the location you wish to download the files to. 
