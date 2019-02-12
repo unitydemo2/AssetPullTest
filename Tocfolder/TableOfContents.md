@@ -12,6 +12,7 @@ Unity Manual TOC
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
 		 - [NodeAssetST](NodeAssetST.md)
+		 - [NewNodeSTRename](NewNodeSTUpdated2.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
