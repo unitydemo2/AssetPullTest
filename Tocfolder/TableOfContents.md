@@ -11,6 +11,7 @@ Unity Manual TOC
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
+		 - [NewlyPushedNodeST](NewlyPushedNodeST.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
