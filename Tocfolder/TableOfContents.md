@@ -1,5 +1,6 @@
-Unity Manual ToC
+Unity Manual TOC
 ================
+
  - [UnityManual]()
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
@@ -10,6 +11,7 @@ Unity Manual ToC
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
+		 - [NodeAssetST](NodeAssetST.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
