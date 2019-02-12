@@ -1,6 +1,11 @@
 #New in Unity 5.6
 
-If you are upgrading existing projects from an earlier version to 5.6, read the [Upgrade Guide to 5.6](UpgradeGuide56) for information about how your project may be affected.
+This file is edited for testing pull with creating distribution.
 
 
-[InstallingUnity](InstallingUnity)
+![abc](DevImages/301805.jpg)
+
+[OfflineDocumentation](OfflineDocumentation)
+
+By QATeam
+On 12th Jan 2019.
