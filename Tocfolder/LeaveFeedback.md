@@ -1,8 +1,16 @@
-#Leave Feedback
+Leave Feedback
+==================
 
-<div id="feedback-container"></div>
-this is testing for new line.
-new line again.
+The Audio Chorus Filter takes an Audio Clip and processes it creating a chorus effect.
+
+A container for audio data.
+
+#The Audio Distortion Filter distorts the sound from an AudioSource or sounds reaching the AudioListener.
+
+The Audio Echo Filter repeats a sound after a given Delay, attenuating the repetitions based on the Decay Ratio.
+
+
+
 
 ```
 using UnityEngine.Purchasing;
