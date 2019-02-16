@@ -22,27 +22,27 @@ To register your game as an available app in the CloudMoolah store:
 
 1. Sign in to the [CloudMoolah Developer Portal](https://dev.cloudmoolah.com/).
 
-2. Click __App Listing__.
+2. Click **App Listing**.
 
 ![CloudMoolah Store dashboard menu](../uploads/Main/cloudmoolahdashboard.png)
 
-3. On the App Listing page, click the __CREATE NEW APP__ button.
+3. On the App Listing page, click the **CREATE NEW APP** button.
 
 ![CloudMoolah create new app button](../uploads/Main/cloudmoolahapplisting.png)
 
-4. On the __App Detail__ page, enter the following information:
+4. On the **App Detail** page, enter the following information:
 
-    1. In __App Name__, enter a name that will identify your game in the CloudMoolah store.
+    1. In **App Name**, enter a name that will identify your game in the CloudMoolah store.
 
-    2. In __BundelID__, enter the Package name you used for your game in the Unity Editor.
+    2. In **BundelID**, enter the Package name you used for your game in the Unity Editor.
 
-    3. In __Currency Name__, enter a name for the currency that players will use to complete the in-app purchase.
+    3. In **Currency Name**, enter a name for the currency that players will use to complete the in-app purchase.
 
-    4. To create a HashKey that you will use in the initialization code for your app, click __GENERATE__ next to the __HMAC/HashKey__ field.
+    4. To create a HashKey that you will use in the initialization code for your app, click **GENERATE** next to the **HMAC/HashKey** field.
 
-    5. In the __Notification HMAC__ field, enter the App ID. This value is used during initialization. 
+    5. In the **Notification HMAC** field, enter the App ID. This value is used during initialization. 
 
-    6. Click __Save__.
+    6. Click **Save**.
 
 ![CloudMoolah create new app result](../uploads/Main/cloudmoolahapplisting2.png)
 
@@ -52,29 +52,29 @@ An in-app purchase is the transaction of exchanging money for digital goods insi
 
 To add a purchasable item in the CloudMoolah Developer portal:
 
-1. On the __App Listing__ page, click __View IAP__.
+1. On the **App Listing** page, click **View IAP**.
 
 ![CloudMoolah view IAP button](../uploads/Main/cloudmoolahapplisting3.png)
 
-2. On the__ IAP Listing__ page, click the __CREATE NEW IAP__ button.
+2. On the** IAP Listing** page, click the **CREATE NEW IAP** button.
 
 ![CloudMoolah create new IAP button](../uploads/Main/cloudmoolahiaplist.png)
 
-3. On the __IAP Detail__ page, enter the following information:
+3. On the **IAP Detail** page, enter the following information:
 
-    1. In the __ProductID__ field, enter a string identifier that you will use in your code to enable purchase of the item in your game.
+    1. In the **ProductID** field, enter a string identifier that you will use in your code to enable purchase of the item in your game.
 
-    2. In the __Amount__ field, enter the number cost of the item in the default currency you specified when you registered your game.
+    2. In the **Amount** field, enter the number cost of the item in the default currency you specified when you registered your game.
 
-    3. In the __Product Name__ field, enter a name for the product.
+    3. In the **Product Name** field, enter a name for the product.
 
-    4. In the __Product Description__, enter a description for the product.
+    4. In the **Product Description**, enter a description for the product.
 
 ![CloudMoolah create new IAP result](../uploads/Main/cloudmoolahiaplist2.png)
 
-4. Click __SAVE__.
+4. Click **SAVE**.
 
-The  item now appears on the __IAP Listing__ page and you can reference it from your game to offer it to your users.
+The  item now appears on the **IAP Listing** page and you can reference it from your game to offer it to your users.
 
 ### Add IAP to your game
 
@@ -113,7 +113,7 @@ public class MyStore : IStoreListener
 }
 ```
 
-1. In the Unity Editor, set the Unity IAP Android target to CloudMoolah by selecting __Window &gt; Unity IAP &gt; Android &gt; Target CloudMoolah__. This sets CloudMoolah as the Android store that the game uses to fulfill IAP requests.
+1. In the Unity Editor, set the Unity IAP Android target to CloudMoolah by selecting **Window &gt; Unity IAP &gt; Android &gt; Target CloudMoolah**. This sets CloudMoolah as the Android store that the game uses to fulfill IAP requests.
 
 ![Enable CloudMoolah in the Editor](../uploads/Main/unityeditorenablecloudmoolat.jpg)
 
@@ -166,4 +166,4 @@ The *IAPDemo.cs* file also shows how to use optional API calls to configure test
 
 ---
 
-<span class="page-edit"> 2018-03-07  <!-- include IncludeTextAmendPageSomeEdit --></span>
+ 2018-03-07  <!-- include IncludeTextAmendPageSomeEdit -->
