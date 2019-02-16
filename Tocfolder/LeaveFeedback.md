@@ -1,5 +1,4 @@
-Leave Feedback
-=========================
+# Leave Feedback
 
 The Audio Chorus Filter takes an Audio Clip and processes it creating a chorus effect.
 
