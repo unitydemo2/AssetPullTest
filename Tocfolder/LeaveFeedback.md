@@ -9,7 +9,10 @@ A container for audio data.
 
 The Audio Echo Filter repeats a sound after a given Delay, attenuating the repetitions based on the Decay Ratio.
 
-
+        When Unity imports Model files that contain Humanoid Rigs and Animation, it needs to reconcile the bone structure of the Model to its Animation. It does this by mapping each bone in the file to a Humanoid Avatar so that it can play the Animation properly. For this reason, it is important to carefully prepare your Model file before importing into Unity.
+        
+        
+        
 
 
 ```
