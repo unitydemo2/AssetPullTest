@@ -14,6 +14,10 @@
 
  
 
+ 
+
+ 
+
  ```
 using UnityEngine.Purchasing;public class MyStore : IStoreListener{    public void InitializeStore()    {        var module = StandardPurchasingModule.Instance();        var builder = ConfigurationBuilder.Instance(module);        // Configure CloudMoolah        builder.Configure&lt;IMoolahConfiguration&gt;().appKey = &quot;d93f4564c41d463ed3d3cd207594ee1b&quot;;        builder.Configure&lt;IMoolahConfiguration&gt;().hashKey = &quot;cc&quot;;        // For server-to-server (also called &quot;online&quot; games) transaction        // logging, set IMoolahConfiguration.notificationURL.        builder.Configure&lt;IMoolahConfiguration&gt;().notificationURL = &quot;https://gameserver.example.com/callback&quot;;        builder.Configure&lt;IMoolahConfiguration&gt;().SetMode(CloudMoolahMode.Production);        // Add purchasable products. The product must be defined in the store.        // Unity IAP provides the *ProductType* enumeration to specify the durability         // of a purchasable product. CloudMoolah limits the product type to Consumable.         builder.AddProduct(&quot;100.gold.coins&quot;, ProductType.Consumable);        // Start asynchronous IAP initialization.        UnityPurchasing.Initialize(this, builder);    }}
 ```
