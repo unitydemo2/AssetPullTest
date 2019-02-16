@@ -1,5 +1,4 @@
-Leave Feedback
-=========================
+# Leave Feedback
 
 The Audio Chorus Filter takes an Audio Clip and processes it creating a chorus effect.
 
@@ -15,7 +14,7 @@ The Audio Echo Filter repeats a sound after a given Delay, attenuating the repet
         
         
         
- ![abc](DevImages/angeler.jpg)   
+ ![abc](Images/angeler_5c67b7a3bbdc13176c9f1ef8.jpg)   
  
  
  
