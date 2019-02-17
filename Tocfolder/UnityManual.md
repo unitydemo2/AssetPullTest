@@ -8,3 +8,5 @@ This is line 2
 
 &lt;dw-image&gt;5c67eb0ad2b38f3c4046756b&lt;/dw-image&gt;
 
+Last line
+
