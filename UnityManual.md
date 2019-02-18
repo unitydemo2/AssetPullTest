@@ -9,7 +9,7 @@ The Unity User Manual helps you learn how to use the Unity Editor and its associ
 
 **New**
 
-* Features introduced in 5.6: [What's New in 5.6](WhatsNew56.md)
+* Features introduced in 5.6: [WhatsNew56.md](WhatsNew56.md)
 * Upgrading Unity projects from older versions of Unity: [Upgrade Guide](UpgradeGuides)
 
 
