@@ -12,11 +12,19 @@
 
  When Unity imports Model files that contain Humanoid Rigs and Animation, it needs to reconcile the bone structure of the Model to its Animation. It does this by mapping each bone in the file to a Humanoid Avatar so that it can play the Animation properly. For this reason, it is important to carefully prepare your Model file before importing into Unity. 
 
+ Image1 
+
  &lt;dw-image&gt;5c680fcc6e886302f08b4456&lt;/dw-image&gt; 
+
+ image2 
 
  &lt;dw-image&gt;5c53f98ae65ffa27d8d3ca5d&lt;/dw-image&gt; 
 
+ Code block1 
+
  &lt;dw-code&gt;5c5a8713f671f31a643c7c86&lt;/dw-code&gt; 
+
+ link1 
 
  &lt;dw-link&gt;project/5c680f8ff376b515d4ed62ac/distribution/5c680fadf376b515d4ed62d5/document/5c680fc7f376b515d4ed62ff&lt;/dw-link&gt; 
 
