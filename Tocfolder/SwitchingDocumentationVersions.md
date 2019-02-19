@@ -1,44 +1,45 @@
-#Switching between Unity versions in the documentation
+ 
 
-The Unity Manual and Scripting API hold documentation for several versions of Unity. You can switch between the two latest versions by clicking on the link at the top-left of this page, above the table of contents.
+ Use the Unity Editor to create 2D and 3D games, apps and experiences. Download the Editor at [unity3d.com](https://unity3d.com/unity). 
 
-![](../uploads/Main/SwitchingDocumentationVersions.png)
+ 
 
-It is not currently possible to look at an individual Unity documentation page and switch between its versions. Switching versions always takes you back to the home page. 
+ 
 
+ ![](Images/10 reasons_5c6bed2d6cab410504048ce6.jpeg) 
 
+ 
 
-To learn how to use a temporary workaround, follow these steps:
+ 
 
-From the Manual or Scripting API home page, switch the version you are viewing using the **Version** link in the top-left corner of the page. Note that the structure of the URL changes. Each version has a specific URL:
+ If it’s your first time using Unity, take a look at the introductory documentation on [Working with Unity](https://docs.unity3d.com/Manual/UnityOverview.html), and see the [Unity Tutorials](https://unity3d.com/learn/tutorials). 
 
-###Unity Manual
+ 
 
-| Destination | URL |
-|:---|:---|
-| Standard URL | https://docs.unity3d.com/Manual/index.html |
-| Version-specific URL (2017.1) | https://docs.unity3d.com/2017.1/Documentation/Manual/ |
-| Version-specific URL (5.6) | https://docs.unity3d.com/560/Documentation/Manual/ |
-| Version-specific URL (5.5) | https://docs.unity3d.com/550/Documentation/Manual/ |
+ 
 
+ [5c6beeef6cab410504049596](Examples/2D01_5c6beeef6cab410504049596.cs) 
 
-###Unity Scripting API
+ 
 
-| Destination | URL |
-|:---|:---|
-|Standard URL|https://docs.unity3d.com/ScriptReference/index.html|
-| Version-specific URL (2017.1) | https://docs.unity3d.com/2017.1/Documentation/ScriptReference/ |
-| Version-specific URL (5.6) | https://docs.unity3d.com/560/Documentation/ScriptReference/ |
-| Version-specific URL (5.5) | https://docs.unity3d.com/550/Documentation/ScriptReference/ |
+ 
 
-Now, navigate the Manual and Scripting API as usual. If you want to switch between versions, change the number in the URL to reflect which version you wish to view. This workaround works for [all currently published versions of the documentation](https://docs.unity3d.com/Manual/ManualVersions.html). 
+ Features introduced in 2018.3: [What’s New in 2018.3](https://docs.unity3d.com/Manual/WhatsNew20183.html) 
 
-Sometimes, you might get a 404 error when you switch over. This happens if the page you’re looking for doesn’t exist in that version of the Manual or Scripting API. This is often the case if the feature isn’t present in the corresponding version of Unity.
+ [Spritepacker.md](Spritepacker.md) 
 
-**A note from the Unity Docs team:**
+ 
 
-Many users have told us that this situation is not ideal, and we want you to know that we have heard you. Please be assured that we are working on a fix to preserve the page you are on while switching versions.
+ Expert guides from Unity developers, in their own words: [Expert Guides](https://docs.unity3d.com/Manual/ExpertGuides.html) 
 
-Thank you for your patience while we work to make the Unity documentation a more efficient and intuitive tool for our users.
+ 
 
-**Last updated:** April 7th, 2017
+ 
+ 
+
+ 
+
+ 
+
+ 
+
