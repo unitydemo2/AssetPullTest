@@ -3,9 +3,9 @@
 This file is edited for testing pull with creating distribution.
 
 
-![abc](DevImages/301805.jpg)
+![abc](Images/301805_5c6bb3110c396b56fcce74ca.jpg)
 
-[OfflineDocumentation](OfflineDocumentation)
+[OfflineDocumentation](OfflineDocumentation.md)
 
 By QATeam
 On 12th Jan 2019.
