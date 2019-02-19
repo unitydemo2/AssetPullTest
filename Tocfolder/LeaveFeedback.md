@@ -5,6 +5,8 @@ The Audio Chorus Filter takes an Audio Clip and processes it creating a chorus e
 
 A container for audio data.
 
+Created and edited for testing.
+
 #The Audio Distortion Filter distorts the sound from an AudioSource or sounds reaching the AudioListener.
 
 The Audio Echo Filter repeats a sound after a given Delay, attenuating the repetitions based on the Decay Ratio.
