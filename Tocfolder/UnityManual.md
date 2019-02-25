@@ -1,143 +1,112 @@
-#Unity User Manual (5.6)
+# Unity User Manual (5.6)
 
-Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
+New Line
+
+Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).)
 
 The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference.
 
+__New__
 
+* Features introduced in 5.6: [WhatsNew56.md](WhatsNew56.md)
 
+* Upgrading Unity projects from older versions of Unity: [Upgrade Guide](http://docs.google.com/UpgradeGuides)
 
-**New**
+__Best practice and expert guides__
 
-* Features introduced in 5.6: [What's New in 5.6](WhatsNew56.md)
-* Upgrading Unity projects from older versions of Unity: [Upgrade Guide](UpgradeGuides)
+* Best practices from Unity Support engineers: [Best Practice Guides](http://docs.google.com/BestPracticeGuides)
 
+* Expert guides from Unity developers, in their own words: [Expert Guides](http://docs.google.com/ExpertGuides)
 
+### Unity User Manual sections
 
+![image alt text](image_0.jpg)
 
+### [Working in Unity](UnityOverview
 
-**Best practice and expert guides**
-
-* Best practices from Unity Support engineers: [Best Practice Guides](BestPracticeGuides)
-* Expert guides from Unity developers, in their own words: [Expert Guides](ExpertGuides)
-
-
-
-
-
-
-
-
-
-###Unity User Manual sections
-
-
-[![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview)
-###[Working in Unity](UnityOverview)###
 A complete introduction to the Unity Editor.
 
+![image alt text](image_0.jpg)
 
+### [Unity 2D](Unity2D
 
-
-[![Main.Unity2D](../uploads/Main/struct2d.jpg)](Unity2D)
-###[Unity 2D](Unity2D)###
 All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.
 
+![image alt text](image_0.jpg)
 
+### [Graphics](Graphics
 
-[![Main.Graphics](../uploads/Main/StructGraphics.jpg)](Graphics)
-###[Graphics](Graphics)###
 The visual aspects of the Unity Editor including cameras and lighting.
 
+![image alt text](image_0.jpg)
 
+### [Physics](PhysicsSection
 
-
-[![Main.PhysicsSection](../uploads/Main/StructPhysics.jpg)](PhysicsSection)
-###[Physics](PhysicsSection)###
 Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.
 
+![image alt text](image_0.jpg)
 
-  
+### [Networking](UNet
 
-[![Main.UNet](../uploads/Main/StructUNet.png)](UNet)
-###[Networking](UNet)###
 How to implement Multiplayer and networking.
 
-  
+![image alt text](image_0.jpg)
 
+### [Scripting](ScriptingSection
 
-[![Main.ScriptingSection](../uploads/Main/StructScripting.jpg)](ScriptingSection)
-###[Scripting](ScriptingSection)###
 Programming your games by using scripting in the Unity Editor.
 
-  
+![image alt text](image_0.jpg)
 
+### [Audio](Audio
 
-[![Main.Audio](../uploads/Main/StructAudio.jpg)](Audio)
-###[Audio](Audio)###
 Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.
 
+![image alt text](image_0.jpg)
 
+### [Animation](AnimationSection
 
-
-[![Main.AnimationSection](../uploads/Main/StructAnimation.jpg)](AnimationSection)
-###[Animation](AnimationSection)###
 Animation in the Unity Editor.
 
+![image alt text](image_0.jpg)
 
+### [UI](UISystem
 
-
-[![Main.UISystem](../uploads/Main/StructUI.jpg)](UISystem)
-###[UI](UISystem)###
 The Unity Editor's UI system.
 
+![image alt text](image_0.jpg)
 
+### [Navigation](Navigation
 
-
-[![Main.Navigation](../uploads/Main/StructNavigation.jpg)](Navigation)
-###[Navigation](Navigation)###
 Navigation in the Unity Editor, including AI and pathfinding.
 
+![image alt text](image_0.jpg)
 
+### [Unity services](UnityServices
 
+![image alt text](image_0.jpg)
 
+### [Virtual reality](VROverview
 
-[![Main.Services](../uploads/Main/ServicesSection.png)](UnityServices)
-###[Unity services](UnityServices)###
+![image alt text](image_0.jpg)
 
+### [Contributing to Unity](ContributingToUnity
 
-
-
-[![Main.VROverview](../uploads/Main/StructVR.jpg)](VROverview)
-###[Virtual reality](VROverview)###
-
-
-
-
-
-[![Main.ContributingToUnity](../uploads/Main/StructContributingToUnity.jpg)](ContributingToUnity)
-###[Contributing to Unity](ContributingToUnity)###
 Suggest modifications to some of the Unity Editor's source code.
 
+![image alt text](image_0.jpg)
 
+### [Platform specific](PlatformSpecific
 
-
-[![Main.PlatformSpecific](../uploads/Main/StructPlatformSpecific.jpg)](PlatformSpecific)
-###[Platform specific](PlatformSpecific)###
 Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.
 
+![image alt text](image_0.jpg)
 
+### [Legacy topics](LegacyTopics
 
-
-[![Main.LegacyTopics](../uploads/Main/StructLegacyTopics.jpg)](LegacyTopics)
-###[Legacy topics](LegacyTopics)###
 Useful if you are maintaining legacy projects.
 
-
-
-<br/>
-
-###Further sources of information
+### Further sources of information
 
 * [Unity Answers](http://answers.unity3d.com/) or [Unity Forums](http://forum.unity3d.com/) - here you can ask questions and search answers.
 
@@ -151,6 +120,7 @@ Useful if you are maintaining legacy projects.
 
 * [Asset Store help](http://unity3d.com/asset-store/help) - help on Asset Store content sharing.
 
-
 ### Known issues
-Is a feature not working as you expect it to? It might be an existing Known Issue. Please check using the **Issue Tracker** at [issuetracker.unity3d.com](https://issuetracker.unity3d.com).
+
+Is a feature not working as you expect it to? It might be an existing Known Issue. Please check using the __Issue Tracker__ at [issuetracker.unity3d.com](https://issuetracker.unity3d.com).
+
