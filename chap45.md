@@ -1,2 +1,2 @@
-Content added here. For publishing and reverting. [ublishing again
+Content added here. For publishing and reverting. publishing again
 
