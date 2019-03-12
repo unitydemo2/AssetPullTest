@@ -2,6 +2,7 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
+	 - [chapthree](chapthree.md)
 	 - [chaptwo](chaptwo.md)
 	 - [chapone](chapone.md)
 	 - [UnityManual Overview](UnityManual.md)
