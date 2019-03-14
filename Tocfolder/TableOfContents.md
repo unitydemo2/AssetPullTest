@@ -1,6 +1,5 @@
-Unity Manual TOC
+Unity Manual ToC
 ================
-
  - [UnityManual]()
 	 - [qwert](qwert.md)
 	 - [UnityManual Overview](UnityManual.md)
