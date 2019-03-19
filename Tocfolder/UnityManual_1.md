@@ -1,156 +1,119 @@
-#Unity User Manual (5.6)
+ 
 
-Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
+# Unity User Manual (5.6) 
 
-The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference.
+ Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
 
+ The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference. 
 
+ **New** 
+*  Features introduced in 5.6: [WhatsNew56.md](WhatsNew56.md) 
+*  Upgrading Unity projects from older versions of Unity: [Upgrade Guide](http://docs.google.com/UpgradeGuides) 
 
+ **Best practice and expert guides** 
+*  Best practices from Unity Support engineers: [Best Practice Guides](http://docs.google.com/BestPracticeGuides) 
+*  Expert guides from Unity developers, in their own words: [Expert Guides](http://docs.google.com/ExpertGuides) 
 
-**New**
+### Unity User Manual sections 
 
-* Features introduced in 5.6: [What's New in 5.6](WhatsNew56.md)
-* Upgrading Unity projects from older versions of Unity: [Upgrade Guide](UpgradeGuides)
+ ![image alt text](image_0.jpg) ![abc](Images/301805_5c776c5feacef318d0b2e6c8.jpg) 
 
+### [Working in Unity](UnityOverview 
 
+ A complete introduction to the Unity Editor. 
 
+ ![image alt text](image_0.jpg) 
 
+### [Unity 2D](Unity2D 
 
-**Best practice and expert guides**
+ All of the Unity Editor's 2D-specific features including gameplay, sprites and physics. 
 
-* Best practices from Unity Support engineers: [Best Practice Guides](BestPracticeGuides)
-* Expert guides from Unity developers, in their own words: [Expert Guides](ExpertGuides)
+ ![image alt text](image_0.jpg) 
 
+### [Graphics](Graphics 
 
+ The visual aspects of the Unity Editor including cameras and lighting. 
 
+ ![image alt text](image_0.jpg) 
 
+### [Physics](PhysicsSection 
 
+ Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space. 
 
+ ![image alt text](image_0.jpg) 
 
+### [Networking](UNet 
 
+ How to implement Multiplayer and networking. 
 
-###Unity User Manual sections
+ ![image alt text](image_0.jpg) 
 
+### [Scripting](ScriptingSection 
 
-[![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview)
-###[Working in Unity](UnityOverview)###
-A complete introduction to the Unity Editor.
+ Programming your games by using scripting in the Unity Editor. 
 
+ ![image alt text](image_0.jpg) 
 
+### [Audio](Audio 
 
+ Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings. 
 
-[![Main.Unity2D](../uploads/Main/struct2d.jpg)](Unity2D)
-###[Unity 2D](Unity2D)###
-All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.
+ ![image alt text](image_0.jpg) 
 
+### [Animation](AnimationSection 
 
+ Animation in the Unity Editor. 
 
-[![Main.Graphics](../uploads/Main/StructGraphics.jpg)](Graphics)
-###[Graphics](Graphics)###
-The visual aspects of the Unity Editor including cameras and lighting.
+ ![image alt text](image_0.jpg) 
 
+### [UI](UISystem 
 
+ The Unity Editor's UI system. 
 
+ ![image alt text](image_0.jpg) 
 
-[![Main.PhysicsSection](../uploads/Main/StructPhysics.jpg)](PhysicsSection)
-###[Physics](PhysicsSection)###
-Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.
+### [Navigation](Navigation 
 
+ Navigation in the Unity Editor, including AI and pathfinding. 
 
-  
+ ![image alt text](image_0.jpg) 
 
-[![Main.UNet](../uploads/Main/StructUNet.png)](UNet)
-###[Networking](UNet)###
-How to implement Multiplayer and networking.
+### [Unity services](UnityServices 
 
-  
+ ![image alt text](image_0.jpg) 
 
+### [Virtual reality](VROverview 
 
-[![Main.ScriptingSection](../uploads/Main/StructScripting.jpg)](ScriptingSection)
-###[Scripting](ScriptingSection)###
-Programming your games by using scripting in the Unity Editor.
+ ![image alt text](image_0.jpg) 
 
-  
+### [Contributing to Unity](ContributingToUnity 
 
+ Suggest modifications to some of the Unity Editor's source code. 
 
-[![Main.Audio](../uploads/Main/StructAudio.jpg)](Audio)
-###[Audio](Audio)###
-Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.
+ ![image alt text](image_0.jpg) 
 
+### [Platform specific](PlatformSpecific 
 
+ Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor. 
 
+ ![image alt text](image_0.jpg) 
 
-[![Main.AnimationSection](../uploads/Main/StructAnimation.jpg)](AnimationSection)
-###[Animation](AnimationSection)###
-Animation in the Unity Editor.
+### [Legacy topics](LegacyTopics 
 
+ Useful if you are maintaining legacy projects. 
 
+ 
 
+ 
 
-[![Main.UISystem](../uploads/Main/StructUI.jpg)](UISystem)
-###[UI](UISystem)###
-The Unity Editor's UI system.
+### Further sources of information 
+*  [Unity Answers](http://answers.unity3d.com/) or [Unity Forums](http://forum.unity3d.com/) - here you can ask questions and search answers. 
+*  [The Unity Knowledge Base](https://support.unity3d.com) - a collection of answers to questions posed to Unity's Support teams. 
+*  [Tutorials](http://unity3d.com/learn/tutorials) - step by step video and written guides to using the Unity Editor. 
+*  [Unity Ads Knowledge Base](http://unityads.unity3d.com/help/index) - a guide to including ads in your game. 
+*  [Everyplay documentation](https://developers.everyplay.com/documentation) - a guide to the Everyplay mobile game replay platform. 
+*  [Asset Store help](http://unity3d.com/asset-store/help) - help on Asset Store content sharing. 
 
+### Known issues 
 
-
-
-[![Main.Navigation](../uploads/Main/StructNavigation.jpg)](Navigation)
-###[Navigation](Navigation)###
-Navigation in the Unity Editor, including AI and pathfinding.
-
-
-
-
-
-[![Main.Services](../uploads/Main/ServicesSection.png)](UnityServices)
-###[Unity services](UnityServices)###
-
-
-
-
-[![Main.VROverview](../uploads/Main/StructVR.jpg)](VROverview)
-###[Virtual reality](VROverview)###
-
-
-
-
-
-[![Main.ContributingToUnity](../uploads/Main/StructContributingToUnity.jpg)](ContributingToUnity)
-###[Contributing to Unity](ContributingToUnity)###
-Suggest modifications to some of the Unity Editor's source code.
-
-
-
-
-[![Main.PlatformSpecific](../uploads/Main/StructPlatformSpecific.jpg)](PlatformSpecific)
-###[Platform specific](PlatformSpecific)###
-Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.
-
-
-
-
-[![Main.LegacyTopics](../uploads/Main/StructLegacyTopics.jpg)](LegacyTopics)
-###[Legacy topics](LegacyTopics)###
-Useful if you are maintaining legacy projects.
-
-
-
-<br/>
-
-###Further sources of information
-
-* [Unity Answers](http://answers.unity3d.com/) or [Unity Forums](http://forum.unity3d.com/) - here you can ask questions and search answers.
-
-* [The Unity Knowledge Base](https://support.unity3d.com) - a collection of answers to questions posed to Unity's Support teams.
-
-* [Tutorials](http://unity3d.com/learn/tutorials) - step by step video and written guides to using the Unity Editor.
-
-* [Unity Ads Knowledge Base](http://unityads.unity3d.com/help/index) - a guide to including ads in your game.
-
-* [Everyplay documentation](https://developers.everyplay.com/documentation) - a guide to the Everyplay mobile game replay platform.
-
-* [Asset Store help](http://unity3d.com/asset-store/help) - help on Asset Store content sharing.
-
-
-### Known issues
-Is a feature not working as you expect it to? It might be an existing Known Issue. Please check using the **Issue Tracker** at [issuetracker.unity3d.com](https://issuetracker.unity3d.com).
+ Is a feature not working as you expect it to? It might be an existing Known Issue. Please check using the **Issue Tracker** at [issuetracker.unity3d.com](https://issuetracker.unity3d.com).
