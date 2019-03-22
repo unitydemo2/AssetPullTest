@@ -8,7 +8,7 @@
 
  **CodeBlock** 
 
- **[5c7cbdebeed1782094fca35b](Examples/123_5c7cbdebeed1782094fca35b.cs)[(tampering)** 
+ [5c7cbdebeed1782094fca35b](Examples/123_5c7cbdebeed1782094fca35b.cs)](tampering text) 
 
  **Link** 
 
